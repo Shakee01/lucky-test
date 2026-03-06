@@ -27,7 +27,7 @@ After each attempt, the program informs the player whether the guess was correct
 2. Run the script:
 
 ```bash
-python guess_number.py
+python lucky_test.py
 ```
 
 3. Enter a number between **1 and 100** and try to guess the correct value.
